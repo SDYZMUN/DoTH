@@ -6,3 +6,10 @@
 4. 更新步骤应于交接前传授至下一届，同时下一届技术中心组委应被添加入本 organization ；
 5. 任何问题，随时电邮 sdyzmun@qq.com 或本 repo 的 contributors 。
 
+***
+
+拓展阅读：
+
+[手把手教你搭建 Hexo 到 VPS](https://blog.stfw.info/hexo-completely-tutorial)
+
+[用 Travis CI 配合 Hexo ，快速入门持续集成](https://blog.stfw.info/from-hexo-to-ci/)
